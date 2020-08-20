@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Chelsea 👋 👩🏻‍💻
 
-<!--
-**chelsabeth/chelsabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Section Leader @LambdaSchool and a Full Stack Web Developer 💻 I have a passion for code, I love to learn, and would consider myself to be a problem solver enthusiast!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧪 I’m currently working on a team of 6 remote developers to create a budgeting app https://github.com/Lambda-School-Labs/Labs25-SaverLife-TeamC-fe
+- 🌱 I’m currently learning Full Stack Web Development @LambdaSchool
+- 👯 I’m looking to collaborate on an amazing team!
+- 🤔 I’m looking for help with...really anything! I love to learn new things 
+- 💬 Ask me about React, programmer memes, and my cats
+- 🔗 Connect with me on LinkedIn: [My Profile](https://www.linkedin.com/in/chelsea-wetzel/)
+- 📚 Read my blog: [DEV](https://dev.to/chelsea_wetzel)
+- 📫 How to reach me: chelswetz@gmail.com
+- 😄 Pronouns: she/her
+- 🐱 Fun fact: I own a hairless cat 
