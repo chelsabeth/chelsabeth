@@ -14,8 +14,6 @@
 [<img align="left" alt="ChelsWetz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="markanator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-<br />
 [![Chelsea's github stats](https://github-readme-stats.vercel.app/api?username=chelsabeth)](https://github.com/chelsabeth/github-readme-stats)
   
 [dev]: https://dev.to/chelsea_wetzel
