@@ -15,7 +15,7 @@
 [<img align="left" alt="markanator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <br /> 
-[![Chelsea's github stats](https://github-readme-stats.vercel.app/api?username=chelsabeth&show_icons=true&theme=tokyonight)](https://github.com/chelsabeth/github-readme-stats)
+[![Chelsea's github stats](https://github-readme-stats.vercel.app/api?username=chelsabeth&show_icons=true&theme=onedark)](https://github.com/chelsabeth/github-readme-stats)
   
 [dev]: https://dev.to/chelsea_wetzel
 [twitter]: https://twitter.com/ChelsWetz
