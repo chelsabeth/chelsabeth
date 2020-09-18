@@ -1,16 +1,25 @@
 ### Hi, I'm Chelsea 👋 👩🏻‍💻
 
-[![DEV](https://dev.to/chelsea_wetzel&style=for-the-badge&url=https%3A%2F%2Fdev.to/chelsea_wetzel%2F)](https://dev.to/chelsea_wetzel)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chelswetz?color=%231DA1F2&label=follow%20%40chelswetz&style=for-the-badge)](https://twitter.com/ChelsWetz)
-I'm a Section Leader @LambdaSchool and a Full Stack Web Developer 💻  I have a passion for code, I love to learn, and would consider myself to be a problem solver enthusiast!
+## I'm a Section Leader @LambdaSchool and a Wife, cat Mom, Developer, and Gamer!
 
 - 💵  I’m currently working on a team of 6 remote developers to create a budgeting app: [SaverLife](https://github.com/Lambda-School-Labs/Labs25-SaverLife-TeamC-fe)
 - 🌱  I’m currently learning Full Stack Web Development @LambdaSchool
-- 👯  I’m looking to collaborate on an amazing team!
-- 🤔  I’m looking for help with...really anything! I love to learn new things 
-- 💬  Ask me about React, programmer memes, and my cats
-- 🔗  Connect with me on LinkedIn: [My Profile](https://www.linkedin.com/in/chelsea-wetzel/)
-- 📚  Read my blog: [DEV](https://dev.to/chelsea_wetzel)
-- 📫  How to reach me: chelswetz@gmail.com
+- 🐱  Fun fact: I have 4 fur babies one hairless cat 
 - 😄  Pronouns: she/her
-- 🐱  Fun fact: I own a hairless cat 
+
+### Connect with me: 
+
+[<img align="left" alt="Chelsea Wetzel's DEV Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
+[<img align="left" alt="ChelsWetz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="markanator | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-chelsabeth.vercel.app/api?username=chelsabeth&show_icons=true&hide_border=true" />
+  
+[dev]: https://dev.to/chelsea_wetzel
+[twitter]: https://twitter.com/ChelsWetz
+[linkedin]: https://www.linkedin.com/in/chelsea-wetzel/
