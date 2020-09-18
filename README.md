@@ -1,6 +1,6 @@
 ### Hi, I'm Chelsea 👋 👩🏻‍💻
 
-[![Blog](https://dev.to/chelsea_wetzel&style=for-the-badge&url=https%3A%2F%2Fdev.to/chelsea_wetzel%2F)](https://dev.to/chelsea_wetzel)
+[![Website](https://dev.to/chelsea_wetzel&style=for-the-badge&url=https%3A%2F%2Fdev.to/chelsea_wetzel%2F)](https://dev.to/chelsea_wetzel)
 [![Twitter Follow](https://img.shields.io/twitter/follow/chelswetz?color=%231DA1F2&label=follow%20%40chelswetz&style=for-the-badge)](https://twitter.com/ChelsWetz)
 I'm a Section Leader @LambdaSchool and a Full Stack Web Developer 💻  I have a passion for code, I love to learn, and would consider myself to be a problem solver enthusiast!
 
