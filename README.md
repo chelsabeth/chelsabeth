@@ -16,8 +16,7 @@
 
 <br />
 <br />
-  <summary>:zap: Github Stats</summary>
-![Chelsea's github stats](https://github-readme-stats.vercel.app/api?username=chelsabeth&show_icons=true&theme=radical)
+[![Chelsea's github stats](https://github-readme-stats.vercel.app/api?username=chelsabeth)](https://github.com/chelsabeth/github-readme-stats)
   
 [dev]: https://dev.to/chelsea_wetzel
 [twitter]: https://twitter.com/ChelsWetz
