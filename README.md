@@ -1,7 +1,7 @@
 ### Hi, I'm Chelsea 👋 👩🏻‍💻
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chelswetz?color=%231DA1F2&label=follow%20%40chelswetz&style=for-the-badge)](https://twitter.com/ChelsWetz)
-## I'm a Section Leader @LambdaSchool and a Wife, cat Mom, Developer, and Gamer!
+## I'm a Section Leader @LambdaSchool and a Wife, Cat Mom, Developer, and Gamer!
 
 - 💵  I’m currently working on a team of 6 remote developers to create a budgeting app: [SaverLife](https://github.com/Lambda-School-Labs/Labs25-SaverLife-TeamC-fe)
 - 🌱  I’m currently learning Full Stack Web Development @LambdaSchool
@@ -18,7 +18,7 @@
 <br />
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-chelsabeth.vercel.app/api?username=chelsabeth&show_icons=true&hide_border=true" />
+ ![Chelsea's github stats](https://github-readme-stats.vercel.app/api?username=chelsabeth&show_icons=true&theme=onedark)
   
 [dev]: https://dev.to/chelsea_wetzel
 [twitter]: https://twitter.com/ChelsWetz
