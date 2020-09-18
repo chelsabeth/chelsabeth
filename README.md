@@ -16,7 +16,7 @@
 
 <br />
 <br />
-![Chelsea's github stats](https://github-readme-stats.vercel.app/api?username=chelsabeth&show_icons=true&theme=tokyonight)
+![Chelsea's github stats](https://github-readme-stats.vercel.app/api?username=chelsabeth&show_icons=true&theme=radical)
   
 [dev]: https://dev.to/chelsea_wetzel
 [twitter]: https://twitter.com/ChelsWetz
