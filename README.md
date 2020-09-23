@@ -4,8 +4,8 @@
 ## I'm a Section Leader @LambdaSchool and a Wife, Cat Mom, Developer, and Gamer!
 
 - 👯‍♀️  I’m currently working on a team of 6 remote developers to create a budgeting app: [SaverLife](https://github.com/Lambda-School-Labs/Labs25-SaverLife-TeamC-fe)
-- 🌱  I’m currently learning Full Stack Web Development @LambdaSchool
-- 🐱  Fun fact: I have 4 fur babies one hairless cat 
+- 🌱  Learning Full Stack Web Development @LambdaSchool
+- 🐱  Fun fact: I have 4 fur babies & one hairless cat 
 - 😄  Pronouns: she/her
 
 ### Connect with me: 
