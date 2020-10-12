@@ -3,8 +3,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/chelswetz?color=%231DA1F2&label=follow%20%40chelswetz&style=for-the-badge)](https://twitter.com/ChelsWetz)
 ## I'm a Section Leader @LambdaSchool and a Wife, Cat Mom, Developer, and Gamer!
 
-- 👯‍♀️  I’m currently working on a team of 6 remote developers to create a budgeting app: [SaverLife](https://github.com/Lambda-School-Labs/Labs25-SaverLife-TeamC-fe)
-- 🌱  Learning Full Stack Web Development @LambdaSchool
+- 👯‍♀️  I’m currently working on side projects w/friends
+- 🏅  Endorsed for Full Stack Web Development by LambdaSchool: [Endorsement Bage](https://www.youracclaim.com/badges/31854378-f4f3-42a0-b942-427baac345ea?source=linked_in_profile)
 - 🐱  Fun fact: I have 4 fur babies & one hairless cat 
 - 😄  Pronouns: she/her
 
