@@ -1,9 +1,8 @@
 ### Hi, I'm Chelsea 👋 👩🏻‍💻
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chelswetz?color=%231DA1F2&label=follow%20%40chelswetz&style=for-the-badge)](https://twitter.com/ChelsWetz)
-## I'm a Section Leader @LambdaSchool and a Wife, Cat Mom, Developer, and Gamer!
+## I'm a Web Devloper [@ONeil Interactive](https://oneilinteractive.com/). Im also a Wife, Cat Mom, and Gamer!
 
-- 👩🏻‍💻 Web Developer at ONeil Interactive
 - 💡 Reach out: Talk to me about my Webflow side business!
 - 🏅  Endorsed for Full Stack Web Development by Lambda School: [Endorsement Bage](https://www.youracclaim.com/badges/31854378-f4f3-42a0-b942-427baac345ea?source=linked_in_profile)
 - 🐱  Fun fact: I have 4 fur babies & one hairless cat (who is also my baby) 
