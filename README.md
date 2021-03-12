@@ -6,7 +6,7 @@
 - 👩🏻‍💻 Web Developer at ONeil Interactive
 - 💡 Reach out: Talk to me about my Webflow side business!
 - 🏅  Endorsed for Full Stack Web Development by Lambda School: [Endorsement Bage](https://www.youracclaim.com/badges/31854378-f4f3-42a0-b942-427baac345ea?source=linked_in_profile)
-- 🐱  Fun fact: I have 4 fur babies & one hairless cat 
+- 🐱  Fun fact: I have 4 fur babies & one hairless cat (who is also my baby) 
 - 😄  Pronouns: she/her
 
 ### Connect with me: 
