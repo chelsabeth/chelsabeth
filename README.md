@@ -4,7 +4,7 @@
 ## I'm a Section Leader @LambdaSchool and a Wife, Cat Mom, Developer, and Gamer!
 
 - 👩🏻‍💻 Web Developer at ONeil Interactive
-- - 💡 Reach out: Talk to me about my Webflow side business!
+- 💡 Reach out: Talk to me about my Webflow side business!
 - 🏅  Endorsed for Full Stack Web Development by Lambda School: [Endorsement Bage](https://www.youracclaim.com/badges/31854378-f4f3-42a0-b942-427baac345ea?source=linked_in_profile)
 - 🐱  Fun fact: I have 4 fur babies & one hairless cat 
 - 😄  Pronouns: she/her
