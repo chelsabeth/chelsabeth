@@ -1,23 +1,16 @@
-### Hi, I'm Chelsea 👋 👩🏻‍💻
+## Hi, I'm Chelsea 👋 👩🏻‍💻 
+### I'm a Software Engineer! I'm also a Wife, Cat Mom, and Gamer!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/chelswetz?color=%231DA1F2&label=follow%20%40chelswetz&style=for-the-badge)](https://twitter.com/ChelsWetz)
-## I'm a Software Engineer! I'm also a Wife, Cat Mom, and Gamer!
-
-- 💡 Reach out: I love to chat! 
+- 🤝 Connect with me: [I love to chat!](https://www.linkedin.com/in/chelsea-wetzel/)
 - 🏅  Endorsed for Full Stack Web Development by BloomTech: [Endorsement Bage](https://www.youracclaim.com/badges/31854378-f4f3-42a0-b942-427baac345ea?source=linked_in_profile)
 - 🐱  Fun fact: I have 5 cats and a bearded Dragon named George!
-- 🚧  Currently Working On: [Checkout my game Phrasemoji!](https://github.com/chelsabeth/phrasemoji/tree/main)
+- 🚧  Currently Working On: [A game called "Phrasemoji!"](https://github.com/chelsabeth/phrasemoji/tree/main)
 - 😄  Pronouns: she/her
+<br/> 
 
-### Connect with me: 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chelsabeth&hide_progress=true&theme=dracula) 
 
-[<img align="left" alt="Chelsea Wetzel's DEV Profile" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
-[<img align="left" alt="My twitter account | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-<br /> 
-[![Chelsea's github stats](https://github-readme-stats.vercel.app/api?username=chelsabeth&show_icons=true&theme=dracula)](https://github.com/chelsabeth/github-readme-stats)
+[![Chelsea's github stats](https://github-readme-stats.vercel.app/api?username=chelsabeth&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true)](https://github.com/chelsabeth/github-readme-stats)
   
-[dev]: https://dev.to/chelsea_wetzel
 [twitter]: https://twitter.com/ChelsWetz
 [linkedin]: https://www.linkedin.com/in/chelsea-wetzel/
