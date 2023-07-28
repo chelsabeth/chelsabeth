@@ -5,7 +5,7 @@
 
 - 💡 Reach out: I love to chat! 
 - 🏅  Endorsed for Full Stack Web Development by BloomTech: [Endorsement Bage](https://www.youracclaim.com/badges/31854378-f4f3-42a0-b942-427baac345ea?source=linked_in_profile)
-- 🐱  Fun fact: I have 5 cats, and a bearded Dragon named George!
+- 🐱  Fun fact: I have 5 cats and a bearded Dragon named George!
 - 🚧  Currently Working On: [Checkout my game Phrasemoji!](https://github.com/chelsabeth/phrasemoji/tree/main)
 - 😄  Pronouns: she/her
 
